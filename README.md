@@ -1,4 +1,6 @@
 # Investigating Transferability in Pretrained Language Models
+**Alex Tamkin, Trisha Singh, Davide Giovanardi, Noah Goodman** <br>
+**Stanford University** <br>
 How does language model pretraining help transfer learning? Code for experiments and figures.
 
 ## Scripts
